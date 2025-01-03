@@ -9,9 +9,9 @@ Aplikasi perpustakaan sederhana yang dapat melakukan berbagai operasi terkait bu
 Python dengan menggunakan arsitektur MVC (Model View Controller). 
 
 Aplikasi perpustakaan ini memiliki fitur sebagai berikut: 
-• Tambah Buku: Menambahkan buku baru ke dalam perpustakaan. 
-• Tampilkan Buku: Menampilkan daftar buku yang ada di perpustakaan beserta statusnya (tersedia atau dipinjam). 
-• Edit Buku: Mengedit informasi buku yang ada di dalam perpustakaan. 
-• Hapus Buku: Menghapus buku dari perpustakaan. 
-• Pinjam Buku: Mencari dan meminjam buku yang tersedia. Dengan kriteria buku yang dipinjam akan berstatus "dipinjam" dan tidak dapat dipinjam lagi hingga dikembalikan. 
+- Tambah Buku: Menambahkan buku baru ke dalam perpustakaan.
+- Tampilkan Buku: Menampilkan daftar buku yang ada di perpustakaan beserta statusnya (tersedia atau dipinjam).
+- Edit Buku: Mengedit informasi buku yang ada di dalam perpustakaan.
+- Hapus Buku: Menghapus buku dari perpustakaan.
+- Pinjam Buku: Mencari dan meminjam buku yang tersedia. Dengan kriteria buku yang dipinjam akan berstatus "dipinjam" dan tidak dapat dipinjam lagi hingga dikembalikan. 
 
