@@ -4,6 +4,9 @@
 3. Ida Ayu Eggy Yuliandika 			(2301010011)
 4. I Dewa Gede Agung Devan Prawira 	(2301010018)
 
+# Link VIdeo
+https://youtu.be/AaecWWlOaeM
+
 # UAS-PBO
 Aplikasi perpustakaan sederhana yang dapat melakukan berbagai operasi terkait buku. Aplikasi ini menggunakan pemrograman berbasis object dengan menggunakan Bahasa Pemrograman 
 Python dengan menggunakan arsitektur MVC (Model View Controller). 
